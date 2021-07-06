@@ -24,7 +24,6 @@
 - 🔭 I’m currently working on a hyperbolic text editor, a programming language 
 - 🌱 I’m currently learning parallel programming
 - 👯 I’m looking to collaborate on AI, embedded software
-- 💬 Ask me about ...
 - 📫 How to reach me: pandeyjatin47@gmail.com
 
 
