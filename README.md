@@ -33,12 +33,6 @@
  I am passionate about programming languages, AI/ML and embedded systems & I enjoy learning new things. </br>
 
 
-![dJatin's Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jatin837&layout=compact&langs_count=8&hide_border=true)
-
-<p> <img src="https://github-readme-stats.vercel.app/api?username=jatin837&show_icons=true&theme=gotham%22%20alt=%22jatin837" alt="djatin" />
-
-
-
 
 
 
