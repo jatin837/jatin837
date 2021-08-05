@@ -21,7 +21,7 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jatin Pandey!](https://github.com/jatin837) 
 
-- I’m currently working on a hyperbolic text editor, a programming language 
+- I’m currently working on a **circuit netlist engine**, hyperbolic text editor, a programming language 
 - I’m currently learning parallel programming
 - I’m looking to collaborate on AI, embedded software
 - How to reach me: pandeyjatin47@gmail.com
@@ -37,3 +37,4 @@
 - [spambuster](https://github.com/jatin837/spambuster)
 - [imagrep](https://github.com/jatin837/imagrep)
 - [stoolie](https://github.com/jatin837/stoolie)
+- [sic-sim](https://github.com/jatin837/sic-sim)
