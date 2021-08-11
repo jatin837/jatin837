@@ -5,7 +5,7 @@
 <h2 align="center">WhoAmI?</h2>
 <p align="center">
   <samp>
-I am a Undergrad Student at Delhi Technological University (Formally DCE) currently undertaking my Bachelors in Electrical Engineering. I’m currently working on a **circuit netlist engine**, hyperbolic text editor, a programming language. I’m currently learning parallel programming. I’m looking to collaborate on AI, embedded software
+I am a Undergrad Student at Delhi Technological University (Formally DCE) currently undertaking my Bachelors in Electrical Engineering. I’m currently working on a circuit netlist engine, hyperbolic text editor, a programming language. I’m currently learning parallel programming. I’m looking to collaborate on AI, embedded software
   <samp>
 
    <h3 align="center"> A list of project that I'm doing</h3>
