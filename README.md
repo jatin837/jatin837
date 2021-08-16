@@ -14,3 +14,6 @@ I am a Undergrad Student at Delhi Technological University (Formerly DCE) curren
 - [imagrep](https://github.com/jatin837/imagrep)
 - [stoolie](https://github.com/jatin837/stoolie)
 - [sic-sim](https://github.com/jatin837/sic-sim)
+- [browcli](https://github.com/jatin837/browcli)
+- [servesock](https://github.com/jatin837/servesock)
+
