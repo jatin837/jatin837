@@ -9,12 +9,20 @@ I am a Undergrad Student at Delhi Technological University (Formerly DCE) curren
   <samp>
 
    <h3 align="center"> A list of project that I'm doing</h3>
-
-- [spambuster](https://github.com/jatin837/spambuster)
-- [imagrep](https://github.com/jatin837/imagrep)
-- [stoolie](https://github.com/jatin837/stoolie)
-- [sic-sim](https://github.com/jatin837/sic-sim)
-- [browcli](https://github.com/jatin837/browcli)
-- [servesock](https://github.com/jatin837/servesock)
-- [react-todo](https://github.com/jatin837/react-todo)
-- [tyler](https://github.com/jatin837/tyler)
+<p align='center'>
+  <ul align='center'>
+    <li>
+      <a href="https://github.com/jatin837/spambuster">A spam detector</a>
+    </li>
+    <li>
+      <a href="https://github.com/jatin837/imagerep">Word Search Utility For images</a>
+    </li>
+    <li>
+      <a href="https://github.com/jatin837/react-todo">A todo client in reactJS</a>
+    </li>
+</p>
+    
+<h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+</p>
