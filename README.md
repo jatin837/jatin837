@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Djatin Pandey</h1>
 
-![4930](https://user-images.githubusercontent.com/63631162/129083155-17f907c2-f335-4ada-b59f-f9eaf9476663.jpg)
+![743976](https://user-images.githubusercontent.com/63631162/134329762-9bd5e5aa-6b66-49fa-b1ee-085c40f0a03b.jpg)
 
 <h2 align="center">WhoAmI?</h2>
 <p align="center">
