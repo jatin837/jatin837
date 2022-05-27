@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Djatin Pandey</h1>
+<h1 align="center">Hi 👋, I'm Jatin Pandey</h1>
 
 ![743976](https://user-images.githubusercontent.com/63631162/134329762-9bd5e5aa-6b66-49fa-b1ee-085c40f0a03b.jpg)
 
